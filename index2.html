@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Berlin</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css' type='text/css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: 'Roboto', Arial, sans-serif;
+        }
+        #home, #map-page {
+            height: 100%;
+            width: 100%;
+        }
+        #home {
+            background-image: url('image (9).png');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            position: relative;
+        }
+        #home h1 {
+            font-size: 4em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 30px;
+        }
+        #logo {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 100px;
+        }
+        #footer-text {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            font-size: 1em;
+            text-align: right;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        #categories {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .category {
+            background-color: rgba(255,255,255,0.9);
+            color: #333;
+            padding: 15px 25px;
+            margin: 10px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1.2em;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .category:hover {
+            background-color: rgba(255,255,255,1);
+            transform: translateY(-3px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        #back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+            background-color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+        #back-button:hover {
+            background-color: #f0f0f0;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+        #layer-toggle {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            background-color: white;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .layer-option {
+            margin: 5px 0;
+            display: flex;
+            align-items: center;
+        }
+        .layer-option input {
+            margin-right: 10px;
+        }
+        .mapboxgl-popup-content {
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .mapboxgl-popup-close-button {
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div id="home">
+        <h1>Welcome to Berlin</h1>
+        <div id="categories">
+            <div class="category" onclick="showMap('all')"><i class="fas fa-globe"></i> All</div>
+            <div class="category" onclick="showMap('restaurants')"><i class="fas fa-utensils"></i> Restaurants</div>
+            <div class="category" onclick="showMap('hotels')"><i class="fas fa-bed"></i> Hotels</div>
+            <div class="category" onclick="showMap('museums')"><i class="fas fa-landmark"></i> Museums</div>
+            <div class="category" onclick="showMap('beaches')"><i class="fas fa-umbrella-beach"></i> Beaches</div>
+            <div class="category" onclick="showMap('airports')"><i class="fas fa-plane"></i> Airports</div>
+        </div>
+      
+    </div>
+    <div id="map-page" style="display: none;">
+        <div id="back-button" onclick="showHome()"><i class="fas fa-arrow-left"></i> Back to Home</div>
+        <div id="map"></div>
+        <div id="layer-toggle">
+            <div class="layer-option">
+                <input type="checkbox" id="restaurants-toggle" checked>
+                <label for="restaurants-toggle"><i class="fas fa-utensils"></i> Restaurants</label>
+            </div>
+            <div class="layer-option">
+                <input type="checkbox" id="hotels-toggle" checked>
+                <label for="hotels-toggle"><i class="fas fa-bed"></i> Hotels</label>
+            </div>
+            <div class="layer-option">
+                <input type="checkbox" id="museums-toggle" checked>
+                <label for="museums-toggle"><i class="fas fa-landmark"></i> Museums</label>
+            </div>
+            <div class="layer-option">
+                <input type="checkbox" id="beaches-toggle" checked>
+                <label for="beaches-toggle"><i class="fas fa-umbrella-beach"></i> Beaches</label>
+            </div>
+            <div class="layer-option">
+                <input type="checkbox" id="airports-toggle" checked>
+                <label for="airports-toggle"><i class="fas fa-plane"></i> Airports</label>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'Mapbox Api key';
+
+        let map;
+        let currentCategory = 'none';
+        let directions;
+        const categories = ['restaurants', 'hotels', 'museums', 'beaches', 'airports'];
+
+        function showMap(category) {
+            document.getElementById('home').style.display = 'none';
+            document.getElementById('map-page').style.display = 'block';
+            currentCategory = category;
+
+            categories.forEach(cat => {
+                document.getElementById(`${cat}-toggle`).checked = (cat === category || category === 'all');
+            });
+
+            if (!map) {
+                map = new mapboxgl.Map({
+                    container: 'map',
+                    style: 'mapbox://styles/mapbox/streets-v11',
+                    center: [13.405, 52.52],
+                    zoom: 11
+                });
+
+                directions = new MapboxDirections({
+                    accessToken: mapboxgl.accessToken,
+                    unit: 'metric',
+                    profile: 'mapbox/walking'
+                });
+
+                map.addControl(directions, 'top-right');
+
+                map.on('load', function() {
+                    loadCustomIcons();
+                    loadAllGeoJSONData();
+                    setupLayerToggleListeners();
+                });
+            } else {
+                loadAllGeoJSONData();
+            }
+        }
+
+        function showHome() {
+            document.getElementById('home').style.display = 'flex';
+            document.getElementById('map-page').style.display = 'none';
+        }
+
+        function loadAllGeoJSONData() {
+            categories.forEach(category => {
+                fetch(`berlin_${category}.geojson`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (!map.getSource(category)) {
+                            map.addSource(category, {
+                                type: 'geojson',
+                                data: data
+                            });
+                        } else {
+                            map.getSource(category).setData(data);
+                        }
+
+                        if (!map.getLayer(category)) {
+                            map.addLayer({
+                                id: category,
+                                type: 'symbol',
+                                source: category,
+                                layout: {
+                                    'icon-image': `${category}-icon`,
+                                    'icon-allow-overlap': true,
+                                    'icon-size': 0.75
+                                }
+                            });
+
+                            map.on('click', category, function (e) {
+                                var coordinates = e.features[0].geometry.coordinates.slice();
+                                var properties = e.features[0].properties;
+
+                                new mapboxgl.Popup()
+                                    .setLngLat(coordinates)
+                                    .setHTML(`<h3>${properties.name}</h3><p>${properties.address}</p>`)
+                                    .addTo(map);
+
+                                directions.setDestination(coordinates);
+
+                                if (navigator.geolocation) {
+                                    navigator.geolocation.getCurrentPosition(position => {
+                                        directions.setOrigin([position.coords.longitude, position.coords.latitude]);
+                                    });
+                                }
+                            });
+
+                            map.on('mouseenter', category, function () {
+                                map.getCanvas().style.cursor = 'pointer';
+                            });
+
+                            map.on('mouseleave', category, function () {
+                                map.getCanvas().style.cursor = '';
+                            });
+                        }
+
+                        updateLayerVisibility();
+                    })
+                    .catch(e => console.log(`Error loading ${category} data:`, e));
+            });
+        }
+
+        function updateLayerVisibility() {
+            categories.forEach(category => {
+                const isChecked = document.getElementById(`${category}-toggle`).checked;
+                if (map.getLayer(category)) {
+                    map.setLayoutProperty(category, 'visibility', isChecked ? 'visible' : 'none');
+                }
+            });
+        }
+
+        function setupLayerToggleListeners() {
+            categories.forEach(category => {
+                document.getElementById(`${category}-toggle`).addEventListener('change', updateLayerVisibility);
+            });
+        }
+
+        function loadCustomIcons() {
+            const iconUrls = {
+                'restaurants': 'https://img.icons8.com/?size=64&id=zWddXTfH7ZRf&format=png',
+                'hotels': 'https://img.icons8.com/?size=64&id=paiWJ4qmhPB9&format=png',
+                'museums': 'https://img.icons8.com/color/48/000000/museum.png',
+                'beaches': 'https://img.icons8.com/color/48/000000/beach.png',
+                'airports': 'https://img.icons8.com/color/48/000000/airport.png'
+            };
+
+            Object.entries(iconUrls).forEach(([category, url]) => {
+                map.loadImage(url, (error, image) => {
+                    if (error) throw error;
+                    if (!map.hasImage(`${category}-icon`)) {
+                        map.addImage(`${category}-icon`, image);
+                    }
+                });
+            });
+        }
+    </script>
+</body>
+</html>

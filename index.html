@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Berlin</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #home, #map-page {
+            height: 100%;
+            width: 100%;
+        }
+        #home {
+            background-image: url('image (9).png');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+        }
+        #home h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        #categories {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .category {
+            background-color: rgba(255,255,255,0.8);
+            color: black;
+            padding: 10px 20px;
+            margin: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .category:hover {
+            background-color: rgba(255,255,255,1);
+        }
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        #back-button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background-color: white;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="home">
+        <h1>Welcome to Berlin</h1>
+        <div id="categories">
+            <div class="category" onclick="showMap('restaurants')">Restaurants</div>
+            <div class="category" onclick="showMap('hotels')">Hotels</div>
+            <div class="category" onclick="showMap('museums')">Museums</div>
+            <div class="category" onclick="showMap('beaches')">Beaches</div>
+            <div class="category" onclick="showMap('airports')">Airports</div>
+        </div>
+    </div>
+    <div id="map-page" style="display: none;">
+        <div id="back-button" onclick="showHome()">Back to Home</div>
+        <div id="map"></div>
+    </div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY3ViZWNvbSIsImEiOiJjajZnbGhsOXAwOXlkMzNtcDZwbm41d2cxIn0.EupJa2ReU5cQ6j-cHTJb-w'; // Replace with your Mapbox access token
+
+        let map;
+        let currentCategory = '';
+
+        function showMap(category) {
+            document.getElementById('home').style.display = 'none';
+            document.getElementById('map-page').style.display = 'block';
+            currentCategory = category;
+
+            if (!map) {
+                map = new mapboxgl.Map({
+                    container: 'map',
+                    style: 'mapbox://styles/mapbox/streets-v11',
+                    center: [13.405, 52.52],
+                    zoom: 11
+                });
+
+                map.on('load', function() {
+                    loadGeoJSONData();
+                });
+            } else {
+                loadGeoJSONData();
+            }
+        }
+
+        function showHome() {
+            document.getElementById('home').style.display = 'flex';
+            document.getElementById('map-page').style.display = 'none';
+        }
+
+        function loadGeoJSONData() {
+            if (map.getSource(currentCategory)) {
+                map.removeLayer(currentCategory);
+                map.removeSource(currentCategory);
+            }
+
+            fetch(`berlin_${currentCategory}.geojson`)
+                .then(response => response.json())
+                .then(data => {
+                    map.addSource(currentCategory, {
+                        type: 'geojson',
+                        data: data
+                    });
+
+                    map.addLayer({
+                        id: currentCategory,
+                        type: 'circle',
+                        source: currentCategory,
+                        paint: {
+                            'circle-radius': 6,
+                            'circle-color': getColorForCategory(currentCategory)
+                        }
+                    });
+
+                    map.on('click', currentCategory, function(e) {
+                        var coordinates = e.features[0].geometry.coordinates.slice();
+                        var properties = e.features[0].properties;
+
+                        new mapboxgl.Popup()
+                            .setLngLat(coordinates)
+                            .setHTML(`<h3>${properties.name}</h3><p>${properties.address}</p>`)
+                            .addTo(map);
+                    });
+
+                    map.on('mouseenter', currentCategory, function() {
+                        map.getCanvas().style.cursor = 'pointer';
+                    });
+
+                    map.on('mouseleave', currentCategory, function() {
+                        map.getCanvas().style.cursor = '';
+                    });
+                });
+        }
+
+        function getColorForCategory(category) {
+            const colors = {
+                restaurants: '#FF0000',
+                hotels: '#0000FF',
+                museums: '#00FF00',
+                beaches: '#FFFF00',
+                airports: '#FF00FF'
+            };
+            return colors[category] || '#000000';
+        }
+    </script>
+</body>
+</html>

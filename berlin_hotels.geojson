@@ -1,0 +1,4121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abacus Tierpark Hotel in Lichtenberg",
+        "address": "Franz-Mett-Str. 3-9 10319 Berlin–Lichtenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5207297,
+          52.5000565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abba Berlin Hotel in Charlottenburg",
+        "address": "Lietzenburger Str. 89 10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321564,
+          52.49938239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abion Villa Suites in Tiergarten",
+        "address": "Kirchstr. 13 \n10557 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3468928,
+          52.5227526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "about:berlin Hotel in Charlottenburg",
+        "address": "Tauentzienstr. 8 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33931,
+          52.5043052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AC Hotel Berlin Humboldthain Park in Wedding",
+        "address": "Hochstr. 3 \n13357 Berlin–Wedding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3843343,
+          52.549493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "acama Hotel & Hostel Kreuzberg in Kreuzberg",
+        "address": "Tempelhofer Ufer 8-9 \n10963 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3867075,
+          52.4979606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achat Hotel Schwarzheide Lausitz in Oberspreewald-Lausitz",
+        "address": "Ruhlander Straße 75 \n01987 Schwarzheide, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.868649,
+          51.47143759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adapt Apartments Berlin-Adlershof in Treptow",
+        "address": "Erich-Thilo-Straße 3 \n12489 Berlin–Treptow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5323369,
+          52.4328046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adina Apartment Hotel Berlin Checkpoint Charlie in Mitte",
+        "address": "Krausenstr. 35-36 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3974536,
+          52.5095117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adina Apartment Hotel Berlin Hackescher Markt in Mitte",
+        "address": "An der Spandauer Brücke 11 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4038642,
+          52.5220159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adina Apartment Hotel Berlin Mitte in Mitte",
+        "address": "Platz vor dem Neuen Tor 6 \n10115 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37775,
+          52.5284104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adrema Hotel in Tiergarten",
+        "address": "Gotzkowskystr. 20-21 \n10555 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3293124,
+          52.5233319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahorn Hotel und Restaurant im Umland",
+        "address": "Bautzener Straße 134/135 \n03050 Cottbus, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3389935,
+          51.7469421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahorn Seehotel Templin in Uckermark",
+        "address": "Am Lübbesee 1 \n17268 Templin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5296765,
+          53.1109749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Air in Berlin in Charlottenburg",
+        "address": "Ansbacher Str. 6 \n10787 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3420144,
+          52.50416689999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airporthotel Berlin-Adlershof in Treptow",
+        "address": "Rudower Chaussee 14 \n12489 Berlin–Treptow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5346674,
+          52.4323347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aja Bad Saarow in Oder-Spree",
+        "address": "Am Golfplatz 2 \n15526 Bad Saarow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0307189,
+          52.2472465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akademie Hotel Berlin in Pankow",
+        "address": "Heinrich-Mann-Str. 29 \n13156 Berlin–Pankow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3937987,
+          52.57226660000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akzent Parkhotel Trebbin in Teltow-Fläming",
+        "address": "Parkstraße 5 \n14959 Trebbin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2935754,
+          52.2432373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albergo City Hotel Berlin in Wilmersdorf",
+        "address": "Hohenzollerndamm 33 \n10713 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3116384,
+          52.4899225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aletto Hotel Kudamm in Charlottenburg",
+        "address": "Hardenbergstr. 21 \n10623 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3299341,
+          52.5062874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfa Hotel in Charlottenburg",
+        "address": "Ufnaustraße 1 \n10553 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.317365,
+          52.5291088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All In Hostel Berlin in Friedrichshain",
+        "address": "Grünberger Str. 54 \n10245 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455815,
+          52.5118106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almodovar Hotel Berlin - Biohotel in Friedrichshain",
+        "address": "Boxhagener Str. 83 \n10245 Berlin-Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4660778,
+          52.5090042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alper Hotel am Potsdamer Platz in Kreuzberg",
+        "address": "Potsdamer Str. 82 \n10785 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36578,
+          52.50365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Brennerei in Uckermark",
+        "address": "Nechlin 8 \n17337 Uckerland, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8901585,
+          53.4450844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Hütte in Spree-Neiße",
+        "address": "Cottbuser Straße 43a \n03119 Welzow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1701964,
+          51.5878039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Schule Café und Pension in Dahme-Spreewald",
+        "address": "Marktplatz 1 \n15926 Luckau, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7155965,
+          51.8530051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altes Kasino Hotel am See in Ostprignitz-Ruppin",
+        "address": "An der Seepromenade 11 \n16816 Neuruppin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.80926,
+          52.92145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altes Zollhaus Mescherin in Uckermark",
+        "address": "Untere Dorfstraße 9 \n16307 Mescherin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4360788,
+          53.2510021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altstadt Hotel im Umland",
+        "address": "Dortustraße 9/10 \n14467 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535011,
+          52.4014657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altstadthotel Am Theater im Umland",
+        "address": "Bahnhofstr. 57 \n03046 Cottbus, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.327747,
+          51.7568668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altstadt-Pension Potsdam im Umland",
+        "address": "Charlottenstr. 89 \n14467 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0581109,
+          52.399988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alwine - Landhaus an den Spreewiesen in Oder-Spree",
+        "address": "Raßmannsdorf 10b \n15848 Rietz-Neuendorf, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2554067,
+          52.2558592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Dachsberg in Oder-Spree",
+        "address": "Am Dachsberg 1 \n15526 Bad Saarow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0352468,
+          52.2550135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Lindenplatz in Elbe-Elster",
+        "address": "Hauptstraße 34 \n03246 Crinitz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7625086,
+          51.73812390000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amadeus am Kurfürstendamm in Charlottenburg",
+        "address": "Sybelstr. 14 \n10629 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.306079,
+          52.5022648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amanda in Reinickendorf",
+        "address": "Schorfheidestraße 5 \n13439 Berlin–Reinickendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3480234,
+          52.5954352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amano Home in Prenzlauer Berg",
+        "address": "Torstr. 52 \n10119 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4099042,
+          52.5285343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaya Motel in Neukölln",
+        "address": "Silbersteinstraße 5-7 \n12051 Berlin–Neukölln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4408512,
+          52.46727019999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amber Econtel Berlin Charlottenburg in Charlottenburg",
+        "address": "Sömmeringstr. 24-26 \n10589 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3067255,
+          52.52348139999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ameron Hotel Abion Spreebogen Berlin in Tiergarten",
+        "address": "Alt-Moabit 99 \n10559 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3456998,
+          52.5230942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amstel House Hostel in Tiergarten",
+        "address": "Waldenserstr. 31 \n10551 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3367628,
+          52.5282517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An den Havelwiesen in Oberhavel",
+        "address": "An den Havelwiesen 39a \n16547 Birkenwerder, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2612698,
+          52.6945507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andersen Hotel Birkenwerder in Oberhavel",
+        "address": "Clara-Zetkin-Strasse 11 \n16547 Birkenwerder, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28787,
+          52.6874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andersen Hotel Schwedt in Uckermark",
+        "address": "Gartenstrasse 11 \n16303 Schwedt/Oder, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angerhof Bischdorf in Oberspreewald-Lausitz",
+        "address": "Bischdorfer Dorfstraße 14a - OT Bischdorf \n03222 Lübbenau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97178,
+          51.79853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anna 1908 in Schöneberg",
+        "address": "Büsingstraße 1 - Ecke Bornstraße \n12161 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3262604,
+          52.4654044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "annabanana Hostel in Prenzlauer Berg",
+        "address": "Schönhauser Allee 133a \n10437 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4119999,
+          52.5445551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annas Haus in Havelland",
+        "address": "Willibald-Alexis-Straße \n14621 Schönwalde-Glien, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.120981,
+          52.5955928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annes Bootshaus im Umland",
+        "address": "Zum Wasserkreuz 48 \n16348 Wandlitz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538357,
+          52.8493046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anno 1900 Hotel Babelsberg im Umland",
+        "address": "Stahnsdorfer Strasse 68 \n14482 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1155535,
+          52.3919478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antik Apartments Spreewald in Oberspreewald-Lausitz",
+        "address": "Bahnhofstr. 9 \n03226 Vetschau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0766634,
+          51.7840703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A&O Berlin Friedrichshain in Friedrichshain",
+        "address": "Boxhagener Str. 73 \n10245 Berlin-Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4690287,
+          52.5070499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A&O Berlin Hauptbahnhof in Tiergarten",
+        "address": "Lehrter Str. 12-15 \n10557 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3634993,
+          52.5291202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A&O Berlin Mitte in Mitte",
+        "address": "Köpenicker Str. 127-129 \n10179 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4238736,
+          52.5086418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparion Apartments Berlin Family in Zehlendorf",
+        "address": "Theklastr. 27 \n12205 Berlin–Zehlendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3002266,
+          52.4294733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apart Hotel Ferdinand Berlin in Hohenschönhausen",
+        "address": "Ferdinand-Schultze-Str. 92 \n13055 Berlin–Hohenschönhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5086597,
+          52.5434051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apart Pension Babelsberg im Umland",
+        "address": "August-Bier-Straße 9 \n14482 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1124694,
+          52.3994078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthome Astrid im Umland",
+        "address": "Hechtsprung 5a \n14476 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1055631,
+          52.465426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthotel Adagio Berlin Kurfürstendamm in Charlottenburg",
+        "address": "Lietzenburger Str. 89 \n10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321564,
+          52.49938239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthotel AZ in Uckermark",
+        "address": "Untere Dorfstraße 9 \n16307 Mescherin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4360788,
+          53.2510021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthotel Christie in Charlottenburg",
+        "address": "Kleiststr. 1 \n10787 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3523591,
+          52.50019409999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthotel Gästehaus Perleberg in Prignitz",
+        "address": "Pritzwalker Straße 4 \n19348 Perleberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ApartHotel Landhaus Lichterfelde mit Remise anno 1895 in Zehlendorf",
+        "address": "Drakestr. 60b \n12205 Berlin–Zehlendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2999938,
+          52.438768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ApartHotel Residenz am Deutschen Theater in Mitte",
+        "address": "Reinhardtstr. 27a-31 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3828939,
+          52.5230214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparthotel Vega in Charlottenburg",
+        "address": "Uhlandstr. 185/186 \n10623 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3265395,
+          52.5043206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment Berlin | Garden, Terrace, Nature in Friedrichshain",
+        "address": "Paul-Junius-Straße Parzelle 13 \n10367 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4754321,
+          52.5242869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment Schmogrow-Fehrow in Spree-Neiße",
+        "address": "Am Wald \n03096 Schmogrow-Fehrow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2213077,
+          51.8540695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment- und Zimmervermietung am Park im Umland",
+        "address": "Pasteurstr. 28 \n14482 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1003096,
+          52.3969163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmenthaus Mehrow in Barnim",
+        "address": "Mehrower Dorfstraße 23A \n16356 Ahrensfelde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6202213,
+          52.5681828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmenthaus \"Spreehof\" in Oberspreewald-Lausitz",
+        "address": "An der Dolzke 42 \n03222 Lübbenau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9896544,
+          51.8678362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmenthaus Sybille Hecke in Charlottenburg",
+        "address": "Danckelmannstr. 35 \n14059 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.291739,
+          52.5116917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmenthotel Kaiser Friedrich im Umland",
+        "address": "Kaiser-Friedrich-Str. 115 \n14469 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9976005,
+          52.4052507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment-Hotel Schillerplatz in Prignitz",
+        "address": "Schillerplatz 1 \n19322 Wittenberge, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7593101,
+          53.0010779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartment-Hotel-Dahlem in Zehlendorf",
+        "address": "Clayallee 150-152 \n14195 Berlin–Zehlendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2730019,
+          52.453778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmenthouse Berlin am Görlitzer Park in Kreuzberg",
+        "address": "Glogauer Straße 2 \n10999 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4377039,
+          52.4947542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmentpension Am Krongut im Umland",
+        "address": "Potsdamer Str. 46 \n14469 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0157103,
+          52.4186073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartmentpension am Stadtschloss im Umland",
+        "address": "Posthofstr. 9 \n14467 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0634533,
+          52.3990334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartments Burg Stavenow in Prignitz",
+        "address": "Stavenow 20 \n19357 Karstädt, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7038388,
+          53.144035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apartments Rosenthal Residence in Prenzlauer Berg",
+        "address": "Rosenthaler Str. 71 \n10119 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4020855,
+          52.5291665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Appartement Avalon in Ostprignitz-Ruppin",
+        "address": "Mühlenstraße 6 - Gartenhaus \n16831 Rheinsberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8924408,
+          53.0979013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apple City Hotel in Tiergarten",
+        "address": "Wilhelmshavener Str. 71 \n10551 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3410965,
+          52.5270446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arabel Design Apartments in Kreuzberg",
+        "address": "Potsdamer Straße 89 \n10785 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3647874,
+          52.5017125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arco Hotel in Schöneberg",
+        "address": "Geisbergstr. 30 \n10777 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3388587,
+          52.49742149999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcotel John F Berlin in Mitte",
+        "address": "Werderscher Markt 11 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3979321,
+          52.5148867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcotel Velvet Berlin in Mitte",
+        "address": "Oranienburger Str. 52 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3882499,
+          52.5259259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ark am Hauptbahnhof in Tiergarten",
+        "address": "Alt-Moabit 126 \n10557 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3583923,
+          52.52309400000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arktur City Hotel in Charlottenburg",
+        "address": "Otto-Suhr-Allee 74 \n10585 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3108501,
+          52.5163977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Hotel Charlottenburger Hof Berlin in Charlottenburg",
+        "address": "Stuttgarter Platz 14 \n10627 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3017109,
+          52.5054339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Nouveau Hotel am Kurfürstendamm in Charlottenburg",
+        "address": "Leibnizstraße 59 \n10629 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3128713,
+          52.5028363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art'Appart Suiten in Charlottenburg",
+        "address": "Goethestr. 50a \n10625 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309023,
+          52.5087309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arte Luise Kunsthotel in Mitte",
+        "address": "Luisenstraße 19 \n10117 Berlin-Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3794134,
+          52.5216169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ArtHotel Connection in Wilmersdorf",
+        "address": "Fuggerstr. 33 \n10777 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3425656,
+          52.49898289999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthotel Landhaus Zur Alten Gärtnerei in Teltow-Fläming",
+        "address": "Nächst Neuendorfer Landstr. 49 ( B 246 ) \n15806 Zossen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4258585,
+          52.22254599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artim Hotel in Wilmersdorf",
+        "address": "Fuggerstr. 20 \n10777 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3448659,
+          52.4991388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "art'otel berlin kudamm in Charlottenburg",
+        "address": "Lietzenburger Str. 85 \n10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3224475,
+          52.49969660000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "art’otel berlin mitte in Friedrichshain",
+        "address": "Wallstraße 70-73 \n10179 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4102183,
+          52.5125529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspria Berlin Ku'damm in Wilmersdorf",
+        "address": "Karlsruher Str. 20 \n10711 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.294356,
+          52.50065069999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Axel Hotel Berlin in Charlottenburg",
+        "address": "Lietzenburger Str. 13 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3424816,
+          52.4997447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Axxon Hotel im Umland",
+        "address": "Magdeburger Landstraße 228 \n14770 Brandenburg an der Havel, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5386864,
+          52.40341009999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BackpackerBerlin in Friedrichshain",
+        "address": "Knorrpromenade 10 \n10245 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4622973,
+          52.5087391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bad Saarow Ferienhaus am Hafen in Oder-Spree",
+        "address": "Uferstr. 21\n15526 Bad Saarow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0410991,
+          52.2846001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahnhofshotel Die Bühne in Oder-Spree",
+        "address": "Bahnhofsplatz 3 \n15526 Bad Saarow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0642456,
+          52.2937434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballhaus Berlin Hostel in Mitte",
+        "address": "Chausseestr. 102 \n10115 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3807363,
+          52.5322372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bananas Guesthouse Berlin in Schöneberg",
+        "address": "Geisbergstr. 41 \n10777 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3435321,
+          52.4969571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bapu Pension zur Schleuse in Potsdam-Mittelmark",
+        "address": "Stahnsdorfer Damm 19 - 1. Obergeschoss \n14532 Kleinmachnow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2072962,
+          52.3966254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbarossa Park in Oberhavel",
+        "address": "Pian 9 \n16798 Himmelpfort, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2446169,
+          53.1847575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bauernhof Maja in Spree-Neiße",
+        "address": "Gartenstr. 4 \n03096 Guhrow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2268004,
+          51.8145889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Am Bahnhof in Teltow-Fläming",
+        "address": "Am Bahnhof 1 \n14974 Ludwigsfelde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2667944,
+          52.2974677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Fiddler's Inn in Ostprignitz-Ruppin",
+        "address": "Siechenstraße 1b \n16816 Neuruppin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8129742,
+          52.9251581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BB Hotel Berlin in Schöneberg",
+        "address": "Fuggerstr. 13 \n10777 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3468139,
+          52.4987475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin Alexanderplatz in Friedrichshain",
+        "address": "Voltairestraße 3 \n10179 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414835,
+          52.5172581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin Potsdamer Platz in Kreuzberg",
+        "address": "Potsdamer Str. 90 \n10785 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36495,
+          52.50286000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin-Charlottenburg in Charlottenburg",
+        "address": "Kaiserdamm 117 \n14057 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2960662,
+          52.5105823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin-Dreilinden in Potsdam-Mittelmark",
+        "address": "Heinrich-Hertz-Strasse 6 \n14532 Kleinmachnow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1868194,
+          52.404981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin-Süd Genshagen in Teltow-Fläming",
+        "address": "Lindenweg 3 \n14974 Ludwigsfelde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313623,
+          52.3073835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Berlin-Tiergarten in Charlottenburg",
+        "address": "Englische Straße 1 \n10587 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3312173,
+          52.5148466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Hotel Potsdam im Umland",
+        "address": "Babelsberger Straße 24 \n14473 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0693343,
+          52.3924622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&B Wagner in Ostprignitz-Ruppin",
+        "address": "Friedrich-Engels-Str. 42 \n16816 Neuruppin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8100432,
+          52.9258384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bboxx Hotelturmanlage Forellenhof Rottstock in Potsdam-Mittelmark",
+        "address": "Forellenhof - bei Dorfstr. 26a \n14793 Rottstock, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3415363,
+          52.2071141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bearlin City Apartments - City Center East in Mitte",
+        "address": "Oranienburger Straße 37 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3918103,
+          52.5254164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beautiful House in Zehlendorf in Zehlendorf",
+        "address": "Forststraße 40 \n14163 Berlin–Zehlendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2384995,
+          52.4392326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bed & Breakfast Hotel Müllerhof in Potsdam-Mittelmark",
+        "address": "Weberstr. 49 \n14548 Schwielowsee, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9923103,
+          52.34895909999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bed und Breakfast Mühle Himmelpfort in Oberhavel",
+        "address": "Stolpseestraße 2 \n16798 Himmelpfort, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2324127,
+          53.17577240000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bei Kosciolek in Spree-Neiße",
+        "address": "Seeweg 70 - OT Kaltenborn \n03172 Guben, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.671316,
+          51.93136399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfort Berlin in Prenzlauer Berg",
+        "address": "Belforter Straße 24 \n10405 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4187202,
+          52.5324537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergschänke & Berghotel in Spree-Neiße",
+        "address": "Neuzeller Straße 10 \n03172 Guben, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6913538,
+          51.9998973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergschlösschen in Teltow-Fläming",
+        "address": "Luckenwalder Str. 17 \n14913 Jüterbog, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08638,
+          52.0028278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berl Inn in Reinickendorf",
+        "address": "Waidmannsluster Damm 148 \n13469 Berlin–Reinickendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3152325,
+          52.60546739999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin Mark Hotel in Charlottenburg",
+        "address": "Meinekestraße 18-19 \n10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3290966,
+          52.5008373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin Marriott Hotel in Tiergarten",
+        "address": "Inge-Beisheim-Platz 1 \n10785 Berlin–Tiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3762494,
+          52.51087500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin Midtown Apartments in Mitte",
+        "address": "Oranienburger Str. 11 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3993787,
+          52.5238872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin-City-Appartments in Schöneberg",
+        "address": "Rheinstr. 4 \n12159 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3343812,
+          52.4710337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berliner Edi's Home in Steglitz",
+        "address": "Platz des 4. Juli 4 \n14167 Berlin–Steglitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2869412,
+          52.42119520000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berliner Hof in Havelland",
+        "address": "Bahnhofstr. 2 \n14624 Dallgow-Döberitz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.080726,
+          52.5352367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berliner Landjungs Feine Laube in Köpenick",
+        "address": "Grasehorstweg 14 \n12589 Berlin–Köpenick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7042807,
+          52.4443972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Hotel am Spittelmarkt in Friedrichshain",
+        "address": "Neue Grünstr. 28 \n10179 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4055569,
+          52.50998910000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Hotel Berlin Mitte in Mitte",
+        "address": "Albrechtstr. 25 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383857,
+          52.52376719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Hotel Kantstraße Berlin in Charlottenburg",
+        "address": "Kantstr. 111 \n10627 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3059464,
+          52.5064722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Plus Parkhotel & Spa Cottbus im Umland",
+        "address": "Liebermannstr. 27 \n03042 Cottbus, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3691612,
+          51.7564401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Plus Plaza Berlin Kurfürstendamm in Charlottenburg",
+        "address": "Kurfürstendamm 203 \n10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3229249,
+          52.5018278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Premier Airporthotel Fontane Berlin in Teltow-Fläming",
+        "address": "Jonas-Lie-Str. 5-11 \n15831 Schönefeld, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428879,
+          52.361287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Spreewald in Oberspreewald-Lausitz",
+        "address": "LPG Str. 1c \n03222 Lübbenau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9064602,
+          51.8512189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biggis Waldpension in Potsdam-Mittelmark",
+        "address": "An der Aue 41 \n14552 Michendorf, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.047837,
+          52.3281795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bildungszentrum Erkner in Oder-Spree",
+        "address": "Seestraße 39 \n15537 Erkner, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7496732,
+          52.4199601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bio-Gästehaus Behm in Ostprignitz-Ruppin",
+        "address": "Schulstraße 2 \n16837 Flecken Zechlin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7670712,
+          53.1573873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bio-Hotel Kolonieschänke in Spree-Neiße",
+        "address": "Ringchaussee 136 \n03096 Burg (Spreewald), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1103103,
+          51.8426409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bismarckschänke in Spree-Neiße",
+        "address": "Schmogrower Straße 1 \n03096 Burg (Spreewald), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1563396,
+          51.8449345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blaues Haus am See in Oder-Spree",
+        "address": "Am Leuchtturm 3c \n15864 Wendisch Rietz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0108374,
+          52.2148827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bleichehof in Spree-Neiße",
+        "address": "Bleichestraße 10a \n03096 Burg (Spreewald), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.128896,
+          51.84834799999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BlnCty Hotel in Mitte",
+        "address": "Gertrud-Kolmar-Straße 5 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380598,
+          52.5119777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blockhaus Schorfheide am Üdersee in Barnim",
+        "address": "Üdersee Nord \n16244 Schorfheide, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6570778,
+          52.8675598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blockhaus Spreewald in Dahme-Spreewald",
+        "address": "Siedlungsstraße \n15913 Alt Zauche, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0084666,
+          51.9193304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluhm's Hotel und Restaurant am Markt in Ostprignitz-Ruppin",
+        "address": "Maxim-Gorki-Str. 34 \n16866 Kyritz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3991319,
+          52.9427853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BNB Berlin am Brandenburger Tor in Mitte",
+        "address": "Wilhelmstr. 48 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3835818,
+          52.5122053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boarding Potsdam im Umland",
+        "address": "Helene-Lange-Str. 18a \n14469 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0576271,
+          52.4066418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boootshaus - Am Spreeufer in Oder-Spree",
+        "address": "Uferstraße 18 D \n15848 Beeskow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2530451,
+          52.1690853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bornholmer Hof im Prenzlauer Berg in Prenzlauer Berg",
+        "address": "Bornholmer Str. 92 \n10439 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4126053,
+          52.5532885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulevardhotel Sängerstadt in Elbe-Elster",
+        "address": "Markt 2-3 \n03238 Finsterwalde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boutique Hotel Alexander in Charlottenburg",
+        "address": "Pariser Str. 37 \n10707 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3170501,
+          52.49815719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boutique Hotel Fährhaus in Spandau",
+        "address": "Aalemannufer 31 \n13587 Berlin–Spandau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2233608,
+          52.5731958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boutique Hotel Mittendrin Berlin in Charlottenburg",
+        "address": "Nürnberger Str. 16 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3381381,
+          52.502553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Box61 Art Concept Flat in Friedrichshain",
+        "address": "Boxhagener Str. 61 \n10245 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4698492,
+          52.5062559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bramkamp Pension in Havelland",
+        "address": "Nauener Str. 22 \n14624 Dallgow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0592514,
+          52.54600869999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brauhaus in Spandau in Spandau",
+        "address": "Neuendorfer Straße 1 \n13585 Berlin–Spandau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2063334,
+          52.5408523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brauhaus und Pension Babben in Oberspreewald-Lausitz",
+        "address": "Brauhausgasse 2 \n03222 Lübbenau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.967781,
+          51.8694406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffet Hotel in Oberhavel",
+        "address": "Clara-Zetkin-Str. 9 \n16547 Birkenwerder, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2870584,
+          52.6877074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow 32 in Dahme-Spreewald",
+        "address": "Gudrunstr. 36 \n15712 Königs Wusterhausen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6567199,
+          52.2855135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow am Donnerberg in Ostprignitz-Ruppin",
+        "address": "Am Donnerberg 1 \n16909 Wittstock/Dosse, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6750382,
+          53.2468289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow am Mochowsee in Dahme-Spreewald",
+        "address": "Buchfinkenweg 9 \n15913 Schwielochsee, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2057581,
+          51.9897443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow am Schwielochsee in Dahme-Spreewald",
+        "address": "Bergsiedlung 44 \n15913 Schwielochsee, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1984061,
+          52.0280778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow am Spreeufer in Dahme-Spreewald",
+        "address": "Am Kleinen Hain \n15907 Lübben (Spreewald), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.898601,
+          51.9462159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Groß Leuthen in Dahme-Spreewald",
+        "address": "Am Weinberg \n15913 Groß Leuthen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0373167,
+          52.047186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Heike in Barnim",
+        "address": "Pittweg \n16348 Wandlitz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4625191,
+          52.7409565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Idylle am See in Ostprignitz-Ruppin",
+        "address": "Altseehof 1 \n16818 Neuruppin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8433944,
+          52.8782624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow im Odertal in Uckermark",
+        "address": "Sonnental 12 \n16278 Stützkow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.177934,
+          52.99474310000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow im Wald in Potsdam-Mittelmark",
+        "address": "Puschkinstraße 18 \n14822 Borkwalde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8490815,
+          52.2522003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Senftenberg in Oberspreewald-Lausitz",
+        "address": "01968 Senftenberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9693262,
+          51.5050323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Sonnental in Uckermark",
+        "address": "Sonnental 6 \n16278 Stützkow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1770019,
+          52.9949205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Teupitz in Dahme-Spreewald",
+        "address": "Zossener Straße \n15755 Teupitz, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5853631,
+          52.1321843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalow Wernsdorf in Dahme-Spreewald",
+        "address": "Niederlehmer Straße \n15713 Wernsdorf, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.676171,
+          52.3560234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalows am Grimnitzsee in Barnim",
+        "address": "Angermünderstr. 20 \n16247 Friedrichswalde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8223084,
+          53.0244764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalows am Vordersee in Teltow-Fläming",
+        "address": "Weinbergstraße \n14943 Dobbrikow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5840859,
+          52.456338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungalows Zur Alten Fähre in Potsdam-Mittelmark",
+        "address": "Zur Alten Fähre 10 \n14542 Werder (Havel), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8995783,
+          52.4347042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burg Hotel Ziesar in Potsdam-Mittelmark",
+        "address": "Frauentor 5 \n14793 Ziesar, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2864614,
+          52.2683875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burghotel Bad Belzig in Potsdam-Mittelmark",
+        "address": "Wittenberger Str. 14 \n14806 Bad Belzig, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851477,
+          52.1375028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Businesshotel Berlin im Umland",
+        "address": "Pasewalker Str. 97 \n13127 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4308331,
+          52.58906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Wildau Hotel und Restaurant am Werbellinsee in Barnim",
+        "address": "Wildau 19 \n16244 Schorfheide, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.650092,
+          52.9067608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Wildau Pension am Werbellinkanal in Barnim",
+        "address": "Am Werbellinkanal 20 \n16244 Eichhorst, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6398223,
+          52.89373029999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calma Berlin Mitte in Mitte",
+        "address": "Linienstr. 139-140 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3898763,
+          52.526523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campingplatz Brüssow J in Uckermark",
+        "address": "Prenzlauer Str. \n17326 Brüssow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1182976,
+          53.402179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campingplatz Brüssow K in Uckermark",
+        "address": "Prenzlauer Str. \n17326 Brüssow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1182976,
+          53.402179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capri by Fraser Berlin in Mitte",
+        "address": "Scharrenstr. 22 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4050573,
+          52.5138943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Camper Berlin in Mitte",
+        "address": "Weinmeisterstr. 1 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4040458,
+          52.5257485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalonia Berlin Mitte in Friedrichshain",
+        "address": "Köpenicker Str. 80-82 \n10179 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4156924,
+          52.511312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cavalierhaus Branitz in Cottbus",
+        "address": "Zum Kavalierhaus 9 \n03042 Cottbus, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3695608,
+          51.7415715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "centra Hotel in Uckermark",
+        "address": "Ringstraße 18 \n16303 Schwedt/Oder, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.269407,
+          53.06650339999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central-Hotel Eberswalde in Barnim",
+        "address": "Alfred-Nobel-Str. 2 - TGE \n16225 Eberswalde-Finow, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7727442,
+          52.8559932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central-Hotel Tegel in Reinickendorf",
+        "address": "Holzhauser Str. 2 \n13509 Berlin–Reinickendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29556,
+          52.57621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Hotel Berlin City West in Charlottenburg",
+        "address": "Emser Str. 6 \n10719 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3198281,
+          52.493609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Hotel Kurfürstendamm in Schöneberg",
+        "address": "Kleiststr. 9-12 \n10787 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34885,
+          52.50095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Park Hotel Berlin-Neukölln in Neukölln",
+        "address": "Buschkrugallee 60-62 \n12359 Berlin–Neukölln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4478013,
+          52.4583007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "centrovital Hotel in Spandau",
+        "address": "Neuendorfer Straße 25 \n13585 Berlin–Spandau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2096688,
+          52.5468756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalet Elke in Oberspreewald-Lausitz",
+        "address": "Mühlenstraße \n01996 Hosena, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0347022,
+          51.462537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalet Himmelpfort 101S in Oberhavel",
+        "address": "Eichberg 7 \n16798 Himmelpfort, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2376489,
+          53.173918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalet Himmelpfort 102S in Oberhavel",
+        "address": "Eichberg 7 \n16798 Himmelpfort, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2376489,
+          53.173918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalet Rotbuche im Umland",
+        "address": "Grüner Weg 15a \n14476 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1052005,
+          52.4734011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charmantes Haus im Grünen nahe Berlin und Potsdam in Teltow-Fläming",
+        "address": "Burggrafenstraße 12 \n14974 Trebbin, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25573,
+          52.24939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Check in Hostel in Kreuzberg",
+        "address": "Markgrafenstr. 68 \n10969 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3941527,
+          52.5054063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Check In Hotel in Köpenick",
+        "address": "Michael-Brückner-Str. 1a \n12439 Berlin–Köpenick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5112143,
+          52.4559116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christel's Pension und Cafe in Potsdam-Mittelmark",
+        "address": "Ketzürer Dorfstraße 10 \n14778 Ketzür, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6290577,
+          52.4959499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christinenhof und Spa Sport- und Tagungshotel in Spree-Neiße",
+        "address": "Hauptstraße 39 \n03185 Tauer, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadines Kurfürstendamm Berlin in Wilmersdorf",
+        "address": "Olivaer Platz 1 \n10707 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3127655,
+          52.4989388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Apartments Berlin in Schöneberg",
+        "address": "Fregestr. 38 \n12161 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3327015,
+          52.464899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Guesthouse Pension Berlin in Prenzlauer Berg",
+        "address": "Gleimstr. 24 \n10437 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4112922,
+          52.5473297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hotel am Gendarmenmarkt in Mitte",
+        "address": "Leipziger Str. 65 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393213,
+          52.5111013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hotel am Kurfürstendamm in Charlottenburg",
+        "address": "Kurfürstendamm 173-174 \n10707 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30964,
+          52.49985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hotel Berlin East in Hohenschönhausen",
+        "address": "Landsberger Allee 203 \n13055 Berlin–Hohenschönhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4773504,
+          52.5336147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hotel Gotland in Kreuzberg",
+        "address": "Urbanstr. 171 \n10961 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4050072,
+          52.4939084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hotel-Pension Brandenburg im Umland",
+        "address": "Große Gartenstr. 2 \n14776 Brandenburg an der Havel, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5582036,
+          52.404288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Inn in Schöneberg",
+        "address": "Hauptstr. 113-115 \n10827 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3491987,
+          52.4818212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Park Hotel im Umland",
+        "address": "Lindenstr. 12 \n15230 Frankfurt (Oder), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5519138,
+          52.3390689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Pension Berlin in Charlottenburg",
+        "address": "Stuttgarter Platz 9 \n10627 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3039731,
+          52.50580129999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Pension Spremberg in Spree-Neiße",
+        "address": "Karl-Marx-Straße 10 A \n03130 Spremberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Residence Hotel Frankfurt Oder Bahnhof im Umland",
+        "address": "Bahnhofstr. 11 \n15230 Frankfurt (Oder), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5461849,
+          52.338234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cityflair Berlin Apartments & Rooms in Friedrichshain",
+        "address": "Frankfurter Allee 26 \n10247 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4593069,
+          52.5150501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City-Hotel Ansbach am Kurfürstendamm in Charlottenburg",
+        "address": "Ansbacher Str. 4 \n10787 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3424575,
+          52.504317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City-Hotel Cottbus im Umland",
+        "address": "Rudolf-Breitscheid-Str. 10 \n03046 Cottbus, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3296065,
+          51.7556714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citystay Hostel Berlin Mitte in Mitte",
+        "address": "Rosenstr. 16 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40546,
+          52.52131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Classik Hotel Alexander Plaza in Mitte",
+        "address": "Rosenstr. 1 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404166,
+          52.5216401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Classik Hotel Hackescher Markt in Mitte",
+        "address": "Große Präsidentenstr. 8 \n10178 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401264,
+          52.5232281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clipper City Home Apartments Berlin in Mitte",
+        "address": "Behrenstr. 47 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3902089,
+          52.5159035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club Lodges Berlin Mitte in Mitte",
+        "address": "Caroline-Michaelis-Straße 8 \n10115 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3845322,
+          52.5338096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Come Inn Berlin Kurfürstendamm in Charlottenburg",
+        "address": "Kurfürstendamm 180 \n10707 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3119196,
+          52.5001725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Hotel Bernau in Barnim",
+        "address": "Zepernicker Chaussee 39 \n16321 Bernau bei Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5700823,
+          52.6738314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Hotel Lichtenberg in Lichtenberg",
+        "address": "Rhinstr. 159 \n10315 Berlin–Lichtenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51747,
+          52.53378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corso in Prignitz",
+        "address": "Havelberger Straße 6 \n19336 Legde/Quitzöbel, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cosmo Hotel Berlin Mitte in Mitte",
+        "address": "Spittelmarkt 13 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4014974,
+          52.5117247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottage am Wald bei Berlin in Havelland",
+        "address": "Regensburger Str. 6 \n14612 Falkensee, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.088864,
+          52.5846703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottage near centrum, paradise in Lichtenberg",
+        "address": "Gleyeweg 33 \n10318 Berlin–Lichtenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508369,
+          52.47656300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Camping Berlin in Barnim",
+        "address": "Schmiedeweg 1 \n16356 Werneuchen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8505396,
+          52.6798932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Inn Hotel Phöben in Potsdam-Mittelmark",
+        "address": "Phöbener Chausseestraße 30b\n14542 Werder (Havel), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8926044,
+          52.4213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cour de Berlin in Oberhavel",
+        "address": "Brandenburger Straße 30 \n16798 Fürstenberg/Havel, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1449908,
+          53.1820525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courtyard by Marriott Berlin Mitte in Mitte",
+        "address": "Axel-Springer-Str. 55 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3998466,
+          52.5097343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowboy Adventures in Ostprignitz-Ruppin",
+        "address": "Keller 1 \n16835 Lindow (Mark), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0307833,
+          52.9814366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Berlin City Centre in Charlottenburg",
+        "address": "Nürnberger Str. 65 \n10787 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340218,
+          52.5037264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Berlin Potsdamer Platz in Kreuzberg",
+        "address": "Hallesche Str. 10 \n10963 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3830482,
+          52.5015304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CVJM Jugendgästehaus Berlin in Charlottenburg",
+        "address": "Karl-Heinrich-Ulrichs-Str. 10 \n10787 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3538992,
+          52.5014025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dämeritz Seehotel in Köpenick",
+        "address": "Kanalstr. 38/39 \n12589 Berlin–Köpenick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72589,
+          52.42504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Das kleine Ferienhaus in Weißensee",
+        "address": "Spinolastr. 4a \n13125 Berlin–Weißensee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4720164,
+          52.6109288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Das kleine Hausboot am Wannsee in Zehlendorf",
+        "address": "Am Großen Wannsee 60 \n14109 Berlin–Zehlendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1640197,
+          52.4336679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Das Literaturhotel Berlin in Schöneberg",
+        "address": "Fregestr. 68 \n12159 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3376243,
+          52.47008810000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Das Schmöckwitz in Köpenick",
+        "address": "Wernsdorfer Str. 43 \n12527 Berlin–Köpenick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6956888,
+          52.3726837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deluxe Ferienwohnung am Beetzsee in Potsdam-Mittelmark",
+        "address": "Am Molkenberg 8 \n14778 Beetzsee, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726662,
+          52.4820809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Der Seehof Rheinsberg in Ostprignitz-Ruppin",
+        "address": "Seestraße 18 \n16831 Rheinsberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8562723,
+          53.116454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Design Hostel P182 in Schöneberg",
+        "address": "Potsdamer Straße 182 \n10783 Berlin–Schöneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3606596,
+          52.4934485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Design Rooms Potsdam im Umland",
+        "address": "Benkertstraße 19 \n14467 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.060803,
+          52.402919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsches Haus Beelitz in Potsdam-Mittelmark",
+        "address": "Berliner Straße 18 \n14547 Beelitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9785628,
+          52.2351671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Botschaft in Lichtenberg",
+        "address": "Treskowallee 92 \n10318 Berlin–Lichtenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5257107,
+          52.4840829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Fabrik baxpax Hotel in Kreuzberg",
+        "address": "Schlesische Straße 18 \n10997 Berlin–Kreuzberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4459622,
+          52.4987303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Möwen in Oberspreewald-Lausitz",
+        "address": "Am IBA Steg 1 \n03226 Vetschau/Spreewald, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0757034,
+          51.78322259999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dietrich-Bonhoeffer-Hotel Berlin Mitte in Mitte",
+        "address": "Ziegelstr. 30 \n10117 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3902777,
+          52.523662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dittmanns Grünau Hotel in Treptow",
+        "address": "Kablower Weg 87 \n12526 Berlin–Treptow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5856775,
+          52.40306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domizil am Park Sanssouci im Umland",
+        "address": "Lendelallee 20 \n14469 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0201897,
+          52.410823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domizil Katharina in Potsdam-Mittelmark",
+        "address": "Birkenstraße 21 \n14822 Borkwalde, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.829479,
+          52.2506667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelhaushälfte Hyggelig 1 in Uckermark",
+        "address": "An der Lanke 23 \n17291 Seehausen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8804223,
+          53.2184562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelhaushälfte Hyggelig 2 in Uckermark",
+        "address": "An der Lanke 23 \n17291 Seehausen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8804223,
+          53.2184562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelhaushälfte in Schönwalde in Havelland",
+        "address": "Kurmärkische Str. 46 \n14621 Schönwalde-Glien, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1226885,
+          52.5928991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelhaushälfte Strausberg in Märkisch-Oderland",
+        "address": "Gartenstadt \n15344 Strausberg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8988888,
+          52.59802250000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelzimmer in Ostprignitz-Ruppin",
+        "address": "Charlottenhofer Straße 4a \n16909 Wittstock/Dosse, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4291539,
+          53.0838107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelzimmer Bett & Bike Romantik im Ferienhaus Odin in Oberspreewald-Lausitz",
+        "address": "Bahnhofstraße 9 \n01983 Großräschen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.013631,
+          51.5878044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doppelzimmer Seeperle im Ferienhaus Odin in Oberspreewald-Lausitz",
+        "address": "Bahnhofstr. 09 \n01983 Großräschen, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0137242,
+          51.5877458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorint Kurfürstendamm Berlin in Charlottenburg",
+        "address": "Augsburger Str. 41 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3319159,
+          52.5026215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorint Sanssouci Berlin/Potsdam im Umland",
+        "address": "Jaegerallee 20 \n14469 Potsdam, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0532555,
+          52.4091349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dormero Hotel Berlin Ku'damm in Charlottenburg",
+        "address": "Eislebener Str. 14 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3337559,
+          52.5005925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dormotel Havelland in Potsdam-Mittelmark",
+        "address": "Ringstr. 7 \n14550 Groß Kreutz (Havel), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7300248,
+          52.4103558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dos Gauchos in Oder-Spree",
+        "address": "Eichenallee 9 \n15537 Grünheide (Mark), Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7996947,
+          52.419254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DoubleTree by Hilton Berlin Ku´damm in Charlottenburg",
+        "address": "Los-Angeles-Platz 1 \n10789 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3353381,
+          52.5026603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Down Town Motel in Köpenick",
+        "address": "Müggelheimer Damm 267/273 \n12559 Berlin–Köpenick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6607861,
+          52.4133754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Apartments Mitte in Mitte",
+        "address": "Invalidenstr. 129 \n10115 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3885389,
+          52.5314851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern & Western Comfort Hostelboat in Friedrichshain",
+        "address": "Mühlen Str. 73 \n10243 Berlin–Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4442895,
+          52.5033019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EastSeven Berlin Hostel in Prenzlauer Berg",
+        "address": "Schwedter Str. 7 \n10119 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4107194,
+          52.5334678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastside Pension in Prenzlauer Berg",
+        "address": "Schönhauser Allee 41 \n10435 Berlin–Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4126914,
+          52.53979330000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easy Lodges Berlin in Neukölln",
+        "address": "Columbiadamm 160 \n10965 Berlin–Neukölln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4179304,
+          52.47996759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EasyHotel Berlin Hackescher Markt in Mitte",
+        "address": "Rosenthaler Str. 69 \n10119 Berlin–Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4022446,
+          52.5288461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eichenhof Hotel Garni in Dahme-Spreewald",
+        "address": "Eichenweg 34 \n15746 Groß Köris, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6783856,
+          52.14601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eisenbahnromantik Hotel in Prignitz",
+        "address": "Freyensteiner Straße 7 \n16945 Meyenburg, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2490017,
+          53.3135778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ela Apartments Berlin in Steglitz",
+        "address": "Hindenburgdamm 118 \n12203 Berlin–Steglitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3127713,
+          52.43514460000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elifim in Spandau",
+        "address": "Staakener Straße 87-89 \n13583 Berlin–Spandau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1900012,
+          52.5361882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EnergieHotel Berlin City West in Charlottenburg",
+        "address": "Wielandstrasse 7/8 \n10625 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3154,
+          52.50568999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "enjoy hostel Berlin City West in Wilmersdorf",
+        "address": "Kalischer Straße 38 \n10713 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30813,
+          52.48451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enjoy Hotel am Studio in Charlottenburg",
+        "address": "Kaiserdamm 80-81 \n14057 Berlin–Charlottenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2772246,
+          52.5093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "enjoy hotel Berlin City Messe in Wilmersdorf",
+        "address": "Rudolstädter Str. 42 \n10713 Berlin–Wilmersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3081178,
+          52.4844424
+        ]
+      }
+    }
+  ]
+}

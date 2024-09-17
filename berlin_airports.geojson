@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flughafen Berlin Brandenburg",
+        "address": "Melli-Beese-Ring 1, 12529 Schönefeld, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510658,
+          52.364628
+        ]
+      }
+    }
+  ]
+}

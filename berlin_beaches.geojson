@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badestelle Krumme Lanke",
+        "address": "14163 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2397306,
+          52.4479646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strand am Flughafensee",
+        "address": "Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Wannsee - Berliner Bäder",
+        "address": "Wannseebadweg 25, 14129 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1794604,
+          52.4381289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Grünau",
+        "address": "12527 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.629115,
+          52.3921615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arbeiterstrand",
+        "address": "Schwarzer Weg, 13505 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2530075,
+          52.5844375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Tegeler See",
+        "address": "13505 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2464014,
+          52.58835939999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badestelle Große Steinlanke",
+        "address": "14129 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2005562,
+          52.4307217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandpromenade",
+        "address": "13595 Bezirk Spandau, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1916922,
+          52.50766849999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indoor Beachsport Center Berlin,Beachhalle, Beachvolleyball",
+        "address": "13435 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3420889,
+          52.6019101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Plötzensee",
+        "address": "Nordufer 26, 13351 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3302397,
+          52.5414452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bürgerablage",
+        "address": "13587 Bezirk Spandau, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1924182,
+          52.5727454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Tegelsee",
+        "address": "Schwarzer Weg 95, 13505 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2441724,
+          52.578805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Grünau",
+        "address": "Sportpromenade 9, 12527 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6055062,
+          52.4087457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Müggelsee",
+        "address": "Fürstenwalder Damm 838, 12589 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6670781,
+          52.4477015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FKK Strandbad Müggelsee",
+        "address": "Fürstenwalder Damm 838, 12589 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6670781,
+          52.4477015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badestelle Kuhhorn",
+        "address": "Havelchaussee 83, 14193 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1914059,
+          52.4881886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weißer Strand Flakensee",
+        "address": "15569 Woltersdorf, Berlin, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7510027,
+          52.4574139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordstrand",
+        "address": "Müggelseedamm 336, 12587 Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.65118,
+          52.44934
+        ]
+      }
+    }
+  ]
+}

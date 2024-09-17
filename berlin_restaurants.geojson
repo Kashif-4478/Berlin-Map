@@ -1,0 +1,1745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italofritzen",
+        "address": "Friedrichstraße 105, 10117 Berlin",
+        "phone": "3040520594.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3881445,
+          52.5227282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parma di Vinibenedetti",
+        "address": "Wrangelstraße 90, 10997 Berlin",
+        "phone": "1744667729.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4399716,
+          52.4995692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreh-Restaurant Sphere im Berliner Fernsehturm",
+        "address": "Alexanderplatz, Panoramastraße 1A, 10178 Berlin",
+        "phone": "30247575875.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4094651,
+          52.52085839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Small Wonder",
+        "address": "Auguststraße 11-13, 10117 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3944188,
+          52.52640719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ristorante A MANO",
+        "address": "Strausberger Pl. 2, 10243 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4273865,
+          52.5193916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FACIL",
+        "address": "Potsdamer Str. 3, 10785 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3739043,
+          52.5090546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resto",
+        "address": "Budapester Str. 40, 10787 Berlin",
+        "phone": "30120221200.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3368936,
+          52.5053758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Trattoria Portofino",
+        "address": "Gubener Str. 48, 10243 Berlin",
+        "phone": "3023910610.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4483513,
+          52.5123863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flamingo Fresh Food Bar",
+        "address": "Neustädtische Kirchstraße 8, 10117 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3855602,
+          52.5194237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hackethal's Gaststätte",
+        "address": "Pflugstraße 11, 10115 Berlin",
+        "phone": "3028387765.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3795434,
+          52.5364248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MontRaw Restaurant",
+        "address": "Torstraße 189, 10115 Berlin",
+        "phone": "3033901243.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3926518,
+          52.528498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byblos Restaurant Berlin",
+        "address": "Spichernstraße 24, 10777 Berlin",
+        "phone": "3056007395.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3340756,
+          52.4976816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kin Za & Schoko Fabrik Crazy Georgian Food & Chocolate Georgisches Cafe",
+        "address": "Krausnickstraße 23, 10115 Berlin",
+        "phone": "1635120124.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3955234,
+          52.5250788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Pasternak",
+        "address": "Knaackstraße 22-24, 10405 Berlin",
+        "phone": "304413399.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4187563,
+          52.534879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Maximilians Berlin",
+        "address": "Friedrichstraße 185-190, 10117 Berlin",
+        "phone": "3020450559.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3891745,
+          52.5115834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnitzelei Mitte",
+        "address": "Chausseestr. 8 Hinterhof erreichbar über: Chausseestr. 8 oder, Novalisstraße 11, 10115 Berlin",
+        "phone": "3032519422.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3878778,
+          52.5285901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bless",
+        "address": "Hausvogteipl. 10, 10117 Berlin",
+        "phone": "3020619795.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3967438,
+          52.5124398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hofbräu Wirtshaus Berlin",
+        "address": "Karl-Liebknecht-Str. 30, 10178 Berlin",
+        "phone": "30679665520.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4141524,
+          52.5247269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Belmondo",
+        "address": "Knesebeckstraße 93, 10623 Berlin",
+        "phone": "3036287261.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3232132,
+          52.5089658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Bieberbau",
+        "address": "Durlacher Str. 15, 10715 Berlin",
+        "phone": "308532390.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3336001,
+          52.479526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katz Orange",
+        "address": "Bergstraße 22, 10115 Berlin",
+        "phone": "30983208430.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3946883,
+          52.5314452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Elefant",
+        "address": "Fuggerstraße 18, 10777 Berlin",
+        "phone": "3023607346.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3453438,
+          52.4990143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellucci",
+        "address": "Kurfürstendamm, Brandenburgische Str. 35, 10707 Berlin",
+        "phone": "3028032233.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3067782,
+          52.499467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mio Berlin",
+        "address": "Panoramastraße 1a, 10179 Berlin",
+        "phone": "3094867700.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4094651,
+          52.52085839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vincenzo",
+        "address": "Rathausstraße 1, 10178 Berlin",
+        "phone": "3030364543.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4121323,
+          52.5202511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantry Restaurant",
+        "address": "Friedrichstraße 120, 10117 Berlin",
+        "phone": "3028091113.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3868778,
+          52.5265902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zur Gerichtslaube",
+        "address": "Poststraße 28, 10178 Berlin",
+        "phone": "302415697.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4063319,
+          52.5170542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nante-Eck",
+        "address": "Unter den Linden 35, 10117 Berlin",
+        "phone": "3022487257.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3886326,
+          52.5166339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salamat",
+        "address": "Gartenstraße 1, 10115 Berlin",
+        "phone": "3028884994.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393934,
+          52.5287948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Dae Mon",
+        "address": "Monbijoupl. 11, 10178 Berlin",
+        "phone": "3026304811.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3993598,
+          52.52273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Keyser Soze GbR",
+        "address": "Tucholskystraße 33, 10117 Berlin",
+        "phone": "3028599489.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393281,
+          52.5262497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YOSOY TAPAS BERLIN",
+        "address": "Rosenthaler Str. 37, 10178 Berlin",
+        "phone": "3028391213.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4027616,
+          52.5244334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vedang - green burger",
+        "address": "Grunerstraße 20 Alexa Foodcourt, 2. OG, 10179 Berlin",
+        "phone": "3021454713.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4147251,
+          52.5199703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Tim Raue",
+        "address": "Rudi-Dutschke-Straße 26, 10969 Berlin",
+        "phone": "3025937930.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3914743,
+          52.5069712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skykitchen",
+        "address": "Landsberger Allee 106, 10369 Berlin",
+        "phone": "304530532620.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457008,
+          52.528366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Marjellchen",
+        "address": "Mommsenstraße 9, 10629 Berlin",
+        "phone": "308832676.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3173527,
+          52.50320079999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard",
+        "address": "Köpenicker Str. 174, 10997 Berlin",
+        "phone": "3049207242.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4351987,
+          52.5041581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restauration 1840",
+        "address": "Am Zwirngraben 8-10, 10178 Berlin",
+        "phone": "3024727401.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4027779,
+          52.5227775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Night Kitchen",
+        "address": "Heckmann Höfe, Oranienburger Str. 32, 10115 Berlin",
+        "phone": "3023575075.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3936282,
+          52.525006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heising",
+        "address": "Rankestraße 32, 10789 Berlin",
+        "phone": "302133952.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3349497,
+          52.5032844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokal",
+        "address": "Linienstraße 160, 10115 Berlin",
+        "phone": "3028449500.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3950083,
+          52.5276474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zur Letzten Instanz",
+        "address": "Waisenstraße 14-16, 10179 Berlin",
+        "phone": "302425528.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4137857,
+          52.5173631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Paris Moskau",
+        "address": "Alt-Moabit 141, 10557 Berlin",
+        "phone": "303942081.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3644404,
+          52.5225721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SPINDLER",
+        "address": "Paul-Lincke-Ufer 42/43, 10999 Berlin",
+        "phone": "3069598880.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421381,
+          52.4962834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ristorante Trattoria Vesuvio",
+        "address": "Strausberger Pl. 8, 10243 Berlin",
+        "phone": "3042029589.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4295937,
+          52.5190581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buschbeck's Restaurant",
+        "address": "Trendelenburgstraße 14, 14057 Berlin",
+        "phone": "3032604166.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2921062,
+          52.5057246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "martas Restaurant Alvis",
+        "address": "Albrechtstraße 8, 10117 Berlin",
+        "phone": "3030886560.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384416,
+          52.522044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BLOCK HOUSE",
+        "address": "Karl-Liebknecht-Str. 7, 10178 Berlin",
+        "phone": "302423300.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4055181,
+          52.5208768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Burger Grill",
+        "address": "Rankestraße 3, 10789 Berlin",
+        "phone": "3055221733.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.334152,
+          52.50351060000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ständige Vertretung",
+        "address": "Schiffbauerdamm 8, 10117 Berlin",
+        "phone": "302823965.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3857287,
+          52.52135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugos Restaurant & Private Dining",
+        "address": "Budapester Str. 2, 10787 Berlin",
+        "phone": "3026021263.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345529,
+          52.5070279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EBERT Restaurant & Bar",
+        "address": "Eisenzahnstraße 59, 10709 Berlin",
+        "phone": "308917567.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3054128,
+          52.4966519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grill Royal",
+        "address": "Friedrichstraße 105b, 10117 Berlin",
+        "phone": "3028879288.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3885486,
+          52.5228804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARKER",
+        "address": "Prinzenstraße 89, 10969 Berlin",
+        "phone": "3039916790.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4093661,
+          52.5024399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Bar Cafe Restaurant Bar",
+        "address": "Oranienburger Str. 33, 10117 Berlin",
+        "phone": "3024020910.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3934886,
+          52.5250887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant VOLT",
+        "address": "Paul-Lincke-Ufer 21, 10999 Berlin",
+        "phone": "30338402320.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4296437,
+          52.4937164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TERAS Döner Kebab",
+        "address": "Wilhelmstraße 45, 10117 Berlin",
+        "phone": "1630024999.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3834551,
+          52.511799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zur Haxe",
+        "address": "Erich-Weinert-Straße 128, 10409 Berlin",
+        "phone": "304216312.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43697,
+          52.54472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China Club Berlin",
+        "address": "Behrenstraße 72, 10117 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3796666,
+          52.5150099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viti Restaurant",
+        "address": "Wilhelmstraße 94, 10117 Berlin",
+        "phone": "3032662401.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.382735,
+          52.5117461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CousCous - Vegetarisches & Veganes Food",
+        "address": "Friedrichstraße 115, 10117 Berlin",
+        "phone": "3055070382.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3874784,
+          52.52682009999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BBQ Kitchen",
+        "address": "Am Zwirngraben 5, 10178 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4030367,
+          52.5228928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VOLT",
+        "address": "Paul-Lincke-Ufer 21, 10999 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4296437,
+          52.4937164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TERAS Döner Kebab",
+        "address": "Wilhelmstraße 45, 10117 Berlin",
+        "phone": "1630024999.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3834551,
+          52.511799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VAPIANO",
+        "address": "am Alex, Rathausstraße 6, 10178 Berlin",
+        "phone": "3027890400.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4109548,
+          52.5204718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katerschmaus",
+        "address": "Holzmarktstraße 25, 10243 Berlin",
+        "phone": "15229413262.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4253919,
+          52.5119325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Village Berlin-Mitte",
+        "address": "Dircksenstraße 94, 10178 Berlin",
+        "phone": "3025765414.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4153645,
+          52.5181633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pequena Habana Restaurant",
+        "address": "Eisenacher Str. 48, 10823 Berlin",
+        "phone": "3030360275.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3491397,
+          52.4877454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutter Hoppe",
+        "address": "Rathausstraße 21, 10178 Berlin",
+        "phone": "3024720603.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4059497,
+          52.5176425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt-Berliner Gasthaus Julchen Hoppe",
+        "address": "Rathausstraße 25, 10178 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4046777,
+          52.5172335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vino & Basilico",
+        "address": "Tucholskystraße 18/20, 10117 Berlin",
+        "phone": "3027878885.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3933213,
+          52.5253626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vedi's Indian Restaurant",
+        "address": "Schönhauser Allee 142, 10437 Berlin",
+        "phone": "304485172.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4117163,
+          52.5417953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coccodrillo",
+        "address": "Veteranenstraße 9, 10119 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4017285,
+          52.5323501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktlokal",
+        "address": "Pücklerstraße 34, 10997 Berlin",
+        "phone": "3028665122.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4311087,
+          52.50242739999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jungbluth",
+        "address": "Lepsiusstraße 63, 12163 Berlin",
+        "phone": "3079789605.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3173656,
+          52.4603903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Balthazar 2",
+        "address": "Spreeufer 2, 10178 Berlin",
+        "phone": "3030882156.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4061085,
+          52.5159271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volkskammer",
+        "address": "Str. der Pariser Kommune 18b, 10243 Berlin",
+        "phone": "3020687549.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4381828,
+          52.51120969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berliner Kartoffelhaus",
+        "address": "Karl-Liebknecht-Str. 9, 10178 Berlin",
+        "phone": "3024729373.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406281,
+          52.5213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulevard Friedrichstraße",
+        "address": "Friedrichstraße 106C, 10117 Berlin",
+        "phone": "302833437.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3884602,
+          52.5232743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarok",
+        "address": "Torstraße 195, 10115 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391793,
+          52.5285114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Nolle",
+        "address": "S-bahnbogen, Georgenstraße 203, 10117 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391593,
+          52.52017799999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandol sur mer",
+        "address": "Torstraße 167, 10115 Berlin",
+        "phone": "3067302051.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3954345,
+          52.5291547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schlögl's - Altberliner Gaststätte",
+        "address": "Karl-Liebknecht-Str. 9, 10178 Berlin",
+        "phone": "302411221.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406281,
+          52.5213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golvet",
+        "address": "Potsdamer Str. 58, 10785 Berlin",
+        "phone": "3089064222.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3676079,
+          52.5055808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALEX Berlin am Alex",
+        "address": "Panoramastraße 1A, 10178 Berlin",
+        "phone": "302404763.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4094651,
+          52.52085839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Hung - fresh asian food",
+        "address": "Karl-Liebknecht-Str. 13, 10178 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4074279,
+          52.5224943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rutz Zollhaus",
+        "address": "Carl-Herz-Ufer 30, 10961 Berlin",
+        "phone": "30233276670.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4010732,
+          52.4967154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cô Chu",
+        "address": "Invalidenstraße 29, 10115 Berlin",
+        "phone": "3030881587.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3847372,
+          52.531181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mama trattoria",
+        "address": "Pariser Platz 6a, 10117 Berlin",
+        "phone": "3020219393.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3778308,
+          52.51689529999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Bistro",
+        "address": "Große Hamburger Str. 16, 10115 Berlin",
+        "phone": "302827657.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3990351,
+          52.5247782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augustiner am Gendarmenmarkt",
+        "address": "Charlottenstraße 55, 10117 Berlin",
+        "phone": "3020454020.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3911098,
+          52.51340039999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Berlinchen",
+        "address": "Bayreuther Str. 44, 10787 Berlin",
+        "phone": "3021996177.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3445316,
+          52.5036697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sixties Diner",
+        "address": "Oranienburger Str. 11, 10178 Berlin",
+        "phone": "3028599041.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3993787,
+          52.5238872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PeterPaul",
+        "address": "Torstraße 99, 10119 Berlin",
+        "phone": "3043773043.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404388,
+          52.530091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarajevo Berlin",
+        "address": "Triftstraße 8, 13353 Berlin",
+        "phone": "3092141077.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359373,
+          52.5442907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mama Cook",
+        "address": "Hedemannstraße 10, 10969 Berlin",
+        "phone": "3025927121.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3886598,
+          52.5029426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26 Shibuya",
+        "address": "Kastanienallee 26, 10435 Berlin",
+        "phone": "3035517970.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4077972,
+          52.537641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cookies Cream",
+        "address": "Behrenstraße 55, 10117 Berlin",
+        "phone": "30680730448.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3880497,
+          52.5160645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Jolly",
+        "address": "Am Kupfergraben 4/4a, 10117 Berlin",
+        "phone": "3020059500.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3944,
+          52.52048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Brooklyn",
+        "address": "Köpenicker Str. 92, 10179 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4136892,
+          52.5117572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Bricole",
+        "address": "Senefelderstraße 30, 10437 Berlin",
+        "phone": "3084421362.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4223226,
+          52.5409994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Osteria Berlin Memhardstraße",
+        "address": "Memhardstraße 3, 10178 Berlin",
+        "phone": "3028043240.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41031,
+          52.52368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi 6 Indian Indisches Restaurant",
+        "address": "Friedrichstraße 237, 10969 Berlin",
+        "phone": "302516775.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3903615,
+          52.5019453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crackers",
+        "address": "Friedrichstraße 158, 10117 Berlin",
+        "phone": "30680730488.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3887672,
+          52.5164134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "893 Ryōtei",
+        "address": "Kantstraße 135/136, 10625 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.316971,
+          52.5058908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spreegold Mitte",
+        "address": "Rosa-Luxemburg-Straße 2, 10178 Berlin",
+        "phone": "3037587980.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40917,
+          52.52307099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wirtshaus Max und Moritz",
+        "address": "Oranienstraße 162, 10969 Berlin",
+        "phone": "3069515911.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4139908,
+          52.50253679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANI Restaurant",
+        "address": "Torstraße 136, 10119 Berlin",
+        "phone": "15232180907.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3996542,
+          52.52933100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Store Kitchen",
+        "address": "Torstraße 1, 10119 Berlin",
+        "phone": "30405044550.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4158903,
+          52.5277538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nobelhart & Schmutzig",
+        "address": "Friedrichstraße 218, 10969 Berlin",
+        "phone": "3025940610.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3905871,
+          52.505326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantina Mexicana Que Pasa",
+        "address": "Oranienburger Str. 27, 10117 Berlin",
+        "phone": "3086435107.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3950866,
+          52.5246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nomad Berlin",
+        "address": "Borsigstraße 28, 10115 Berlin",
+        "phone": "3023883977.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3896068,
+          52.5294207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "To The Bone Restaurant & Bar",
+        "address": "Torstraße 96, 10119 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4045555,
+          52.5293929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaststätte Sophieneck",
+        "address": "Große Hamburger Str. 37, 10115 Berlin",
+        "phone": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3986636,
+          52.526368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cancún",
+        "address": "Rathausstraße 5-13, 10178 Berlin",
+        "phone": "3084712785.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4095071,
+          52.5191386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bavaria",
+        "address": "Hannah-Arendt-Straße 3, 10117 Berlin",
+        "phone": "3036758096.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3810545,
+          52.5135719
+        ]
+      }
+    }
+  ]
+}
